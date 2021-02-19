@@ -9,3 +9,6 @@ type = "http" # or "socks5"；
 host = "127.0.0.1"
 port = 1081
 
+[auth]
+enable = true
+token = "92cb25e61c6c6bfa"

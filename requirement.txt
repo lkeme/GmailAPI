@@ -9,3 +9,4 @@ gevent
 requests[socks]
 toml
 chardet
+termcolor
